@@ -1,2 +1,2 @@
 # Matrix-Multiplication
-Using only for-loops, write a function that returns the product of two matrices.
+Using only <b>for-loops</b>, write a function that returns the product of two matrices.
